@@ -1,0 +1,6 @@
+enum {
+  PICTURE_H = 16,
+  PICTUERE_W = 16
+};
+
+extern int picture[PICTURE_H][PICTURE_W];
